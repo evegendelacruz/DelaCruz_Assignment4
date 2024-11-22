@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "demo",
-    "slug": "demo",
+    "name": "DelaCruz_Assignment4",
+    "slug": "DelaCruz_Assignment4",
     "scheme":"com.demo.app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Logo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#0f55e3"
     },
     "ios": {
       "supportsTablet": true
